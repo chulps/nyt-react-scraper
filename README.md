@@ -1,1 +1,3 @@
-READ THIS
+check this link for a demo...
+
+https://nyt-react-scraper.herokuapp.com/
