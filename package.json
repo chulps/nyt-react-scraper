@@ -14,13 +14,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^3.5.0",
-    "nodemon": "^1.11.0"
+    "concurrently": "^3.6.0",
+    "nodemon": "^1.18.3"
   },
   "dependencies": {
     "bluebird": "^3.5.0",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "mongoose": "^4.11.10"
+    "mongoose": "^4.13.14"
   }
 }
